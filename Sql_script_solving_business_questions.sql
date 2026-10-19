@@ -152,3 +152,4 @@ on last_year.branch = curr_year.branch
 where last_year.revenue>curr_year.revenue
 order by revenue_decrease_ratio desc
 limit 5;
+

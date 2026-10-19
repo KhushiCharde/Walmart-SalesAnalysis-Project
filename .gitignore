@@ -1,0 +1,6 @@
+.venv/
+myenv/
+__pycache__/
+.env
+kaggle.json
+rejected_rows.csv
