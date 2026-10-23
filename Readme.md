@@ -1,5 +1,5 @@
 # Walmart-Sales-Data-Analysis-Project-with-SQL-Python
-https://walmart-sales-insights-dashboard.krushnask191204.chatgpt.site/
+[Live Demo](https://walmart-sales-insights-dashboard.krushnask191204.chatgpt.site)
 This is an end-to-end project, a full Walmart Sales Data Analysis workflow using Python and SQL. The project is divided into several key phase.
 
 
